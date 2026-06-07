@@ -44,9 +44,9 @@ To test these implementations on your local machine, follow the steps below.
 
 ### Installation
 1.  Clone the repository:
-    ```bash
+    
     git clone [https://github.com/ojayballer/OPERATING-SYSTEMS-CSC-314-.git](https://github.com/ojayballer/OPERATING-SYSTEMS-CSC-314-.git)
-    ```
+    
 2.  Navigate to the directory:
     ```bash
     cd OPERATING-SYSTEMS-CSC-314-
